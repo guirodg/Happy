@@ -13,4 +13,7 @@
   <img src='map.png'>
 </p>
 
+## Techs :mortar_board:
+- **TypeScript**
+- **Angular**
 
