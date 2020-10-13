@@ -8,7 +8,6 @@
 
 ## Web :computer:
 <p align="center">
-<<<<<<< HEAD
   <img src='Homerd.png'>
   <br/><br/>
   <img src='MAP.png'>
