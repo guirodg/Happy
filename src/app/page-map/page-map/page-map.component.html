@@ -1,0 +1,23 @@
+<div id="page-map">
+  <aside>
+    <header>
+      <img src={{urlMarker}} alt="Happy">
+
+      <h2>Escolha um orfanato no mapa</h2>
+      <p>Muitas crianças estão esperando a sua visita :)</p>
+    </header>
+
+    <footer>
+      <strong>Mauá</strong>
+      <span>São Paulo</span>
+    </footer>
+  </aside>
+
+  <agm-map [latitude]="lat" [zoom]="zoom" [longitude]="lng">
+    <agm-marker [latitude]="lat" [longitude]="lng"></agm-marker>
+  </agm-map>
+
+  <a [routerLink]="['/routePath']" class="create-orphanage">
+    <img src={{urlPlusicon}} alt="pls">
+  </a>
+</div>
