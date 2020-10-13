@@ -10,7 +10,7 @@
 <p align="center">
   <img src='Homerd.png'>
   <br/><br/>
-  <img src='MAP.png'>
+  <img src='map.png'>
 </p>
 
 
