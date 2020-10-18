@@ -10,7 +10,7 @@
 <p align="center">
   <img src='Homerd.png'>
   <br/><br/>
-  <img src='map.png'>
+  <img src='MAP.PNG'>
 </p>
 
 ## Techs :mortar_board:
