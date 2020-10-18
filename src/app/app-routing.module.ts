@@ -5,7 +5,7 @@ import { PageMapModule } from './page-map/page-map.module';
 
 const routes: Routes = [
   {
-    path: 'home-page',
+    path: '',
     loadChildren: () => import('./home-page/home-page.module').then(m => HomePageModule),
   },
   {
